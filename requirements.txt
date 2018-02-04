@@ -1,0 +1,6 @@
+django
+pyjwt
+requests
+passlib
+pillow
+selenium
